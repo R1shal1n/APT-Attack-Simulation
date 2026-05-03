@@ -19,7 +19,7 @@ and Group-IB: https://www.group-ib.com/blog/muddywater-operation-olalampo/
 The initial campaign targeted project engineers using industry-specific terminology for subsea pipelines. The lure document was blurred in order to deceive targets into clicking “Enable Content” thereby triggering the execution of the embedded macro.
 
 
-<img width="623" height="206" alt="Screenshot 2026-05-03 at 17-16-58 Operation Olalampo Inside MuddyWater’s Latest Campaign Group-IB Blog" src="https://github.com/user-attachments/assets/298f71c2-b21c-4ddb-8cc3-d3151d3de746" />
+<img width="1177" height="700" alt="word-image-353730-175304-5-1177x700" src="https://github.com/user-attachments/assets/3c5ea612-6b8c-4b75-bca0-f0df1a23c0d0" />
 
 
 The attack group delivered a malicious Excel and Word files designed to mimic the target’s internal financial records. The lure appeared as a legitimate spreadsheet containing payment details and cash flow projections.
