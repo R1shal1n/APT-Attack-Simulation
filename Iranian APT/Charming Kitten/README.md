@@ -15,7 +15,7 @@ and Group-IB: https://www.group-ib.com/blog/muddywater-operation-olalampo/
 <img width="1262" height="700" alt="word-image-341009-175304-1-1262x700" src="https://github.com/user-attachments/assets/78362455-3c93-4a60-88ec-6132d407f166" />
 
 
-The initial campaign targeted project engineers using industry-specific terminology for subsea pipelines. The lure document was blurred in order to deceive targets into clicking “Enable Content,” thereby triggering the execution of the embedded macro.
+The initial campaign targeted project engineers using industry-specific terminology for subsea pipelines. The lure document was blurred in order to deceive targets into clicking “Enable Content” thereby triggering the execution of the embedded macro.
 
 
 <img width="623" height="206" alt="Screenshot 2026-05-03 at 17-16-58 Operation Olalampo Inside MuddyWater’s Latest Campaign Group-IB Blog" src="https://github.com/user-attachments/assets/298f71c2-b21c-4ddb-8cc3-d3151d3de746" />
