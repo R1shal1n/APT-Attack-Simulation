@@ -25,5 +25,5 @@ The infected document included specific references to “Engineering, Constructi
 
 In this campaign, the blurred document lure delivers a new payload  as a custom HTTP backdoor. To maintain persistence, the group has evolved its development approach by leveraging AI-generated code and Rust-based tools, such as the BlackBeard backdoor, to rapidly deploy custom implants. Additionally, the group uses standard HTTP status codes, customized UDP based traffic, and the Telegram API for C2 communications.
 
-<img width="1536" height="198" alt="word-image-379309-175304-15-1536x198" src="https://github.com/user-attachments/assets/315d2723-04a3-457d-a04d-59344b27bb1f" />
+<img width="689" height="578" alt="Screenshot 2026-05-03 at 17-06-02 Operation Olalampo Inside MuddyWater’s Latest Campaign Group-IB Blog" src="https://github.com/user-attachments/assets/dc9ea0ba-0c97-42ff-af21-fb6ab4f8c28c" />
 
