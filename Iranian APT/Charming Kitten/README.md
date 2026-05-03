@@ -3,7 +3,8 @@
 
 This is a simulation of an attack by the APT group **Charming Kitten**, targeting multiple sectors including government, military, and critical infrastructure across the Middle East. The group’s targeting has expanded beyond government entities to include the maritime, aviation, and financial sectors, reflecting a growing interest in regional logistics and critical economic infrastructure.
 
-<img width="1146" height="636" alt="imageedit_3_7755177569" src="https://github.com/user-attachments/assets/81ea1f39-68e1-45b5-89dd-77137734a8c4" />
+<img width="1672" height="941" alt="e48cc470-d701-45fd-ba6a-a1cfe6552bcd" src="https://github.com/user-attachments/assets/7888b72d-8991-4b4a-aedf-3cfeb800b17d" />
+
 
 Recent campaigns have targeted entities in Egypt, Saudi Arabia, the UAE, Turkey, Hungary, Turkmenistan, Israel, and South America. These attacks demonstrate the group’s ability to pivot between sectors while conducting multiple operations simultaneously. The campaign was active throughout 2025 and 2026. This simulation is based on research from 
 
