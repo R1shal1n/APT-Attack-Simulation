@@ -16,7 +16,7 @@ This repository contains detailed adversary simulation APT campaigns targeting v
 **Learn More About the Importance and Outcomes of the Experience:**
 - [**Why Adversary Simulation?**](https://medium.com/@S3N4T0R/why-adversary-simulation-a1c69e8bd93a) - Understanding the strategic value of simulating advanced threats
 - [**Adversary Simulation VS Adversary Emulation**](https://medium.com/@S3N4T0R/adversary-simulation-vs-adversary-emulation-381b920a12f6) - Key differences and when to use each approach
-- [**How do I simulate an APT**](https://medium.com/@S3N4T0R/adversary-simulation-is-not-a-methodology-its-the-outcome-of-experience-4dfeafdba6da?postPublishedType=initial) - Adversary Simulation Is Not a Methodology It’s the Outcome of Experience
+- [**How do I simulate an APT**](https://medium.com/@S3N4T0R/adversary-simulation-is-not-a-methodology-its-the-outcome-of-experience-4dfeafdba6da?postPublishedType=initial) - Adversary Simulation Is Not a Methodology It's the Outcome of Experience
 
 ## 🎯 Simulated APT Groups
 
@@ -37,14 +37,14 @@ All adversary simulations are powered by [**BEAR-C2**](https://github.com/S3N4T0
 
 ![Bear-C2 Framework](https://github.com/user-attachments/assets/b160db34-0355-4554-8990-e540c1afba5e)
 
-<p align="center"> <strong>Always Remember: <em>"Be The Threat To Defeat It"</em></strong> </p><p align="center">
+<p align="center"><strong>Always Remember: <em>"Be The Threat To Defeat It"</em></strong></p>
 
 ## 📫 Contact
 
 <table align="center">
   <tr>
     <td align="center"><a href="https://t.me/BearC2"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/></a></td>
-    <td align="center"><a href="https://x.com/S3N4T0R_0X0"><img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40"/></a></td>
+    <td align="center"><a href="https://x.com/S3N4T0R_0X0"><img src="https://img.icons8.com/color/48/000000/twitterx--v1.png" width="40"/></a></td>
     <td align="center"><a href="https://eg.linkedin.com/in/s3n4t0r"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a></td>
     <td align="center"><a href="https://www.reddit.com/u/S3N4T0R-0X0/s/pF0LHjjCOs"><img src="https://img.icons8.com/color/48/FF4500/reddit.png" width="40"/></a></td>
   </tr>
