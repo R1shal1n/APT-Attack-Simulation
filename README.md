@@ -41,30 +41,17 @@ All adversary simulations are powered by [**BEAR-C2**](https://github.com/S3N4T0
 
 ## 📫 Contact
 
-
-<p align="center">
-  <a href="https://t.me/BearC2">
-    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/S3N4T0R_0X0">
-    <img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" alt="Twitter/X" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://eg.linkedin.com/in/s3n4t0r">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.reddit.com/u/S3N4T0R-0X0/s/pF0LHjjCOs">
-    <img src="https://img.icons8.com/ios-filled/50/000000/reddit.png" alt="Reddit" width="40" height="40"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://t.me/BearC2">Telegram</a> •
-  <a href="https://x.com/S3N4T0R_0X0">Twitter/X</a> •
-  <a href="https://eg.linkedin.com/in/s3n4t0r">LinkedIn</a> •
-  <a href="https://www.reddit.com/u/S3N4T0R-0X0/s/pF0LHjjCOs">Reddit</a>
-</p>
-
-
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://t.me/BearC2"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" width="40"/></a></td>
+    <td align="center"><a href="https://x.com/S3N4T0R_0X0"><img src="https://img.icons8.com/ios-filled/50/000000/twitterx.png" width="40"/></a></td>
+    <td align="center"><a href="https://eg.linkedin.com/in/s3n4t0r"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a></td>
+    <td align="center"><a href="https://www.reddit.com/u/S3N4T0R-0X0/s/pF0LHjjCOs"><img src="https://img.icons8.com/color/48/FF4500/reddit.png" width="40"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://t.me/BearC2">Telegram</a></td>
+    <td align="center"><a href="https://x.com/S3N4T0R_0X0">Twitter/X</a></td>
+    <td align="center"><a href="https://eg.linkedin.com/in/s3n4t0r">LinkedIn</a></td>
+    <td align="center"><a href="https://www.reddit.com/u/S3N4T0R-0X0/s/pF0LHjjCOs">Reddit</a></td>
+  </tr>
+</table>
