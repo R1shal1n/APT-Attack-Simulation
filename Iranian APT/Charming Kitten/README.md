@@ -33,6 +33,19 @@ The infected document included specific references to “Engineering, Constructi
 
 <img width="897" height="483" alt="Screenshot 2026-05-03 at 05-44-34 Boggy Serpens Threat Assessment" src="https://github.com/user-attachments/assets/b7e58230-ed40-4061-9896-a992c7e7336b" />
 
+• Exploiting Trusted Relationships for Payload Delivery
+
+Throughout the past year, Charming Kitten systematically abused trusted relationships by hijacking official government and corporate email accounts to bypass traditional email security controls and filtering mechanisms. This technique was observed in more than 15 targeted operations conducted across multiple regions worldwide.
+
+In August 2025, the group leveraged a compromised mailbox belonging to the Omani Ministry of Foreign Affairs to distribute malicious documents to foreign ministries and diplomatic entities in several countries. The delivered files were disguised as legitimate diplomatic communications and official government correspondence, increasing the likelihood of recipient interaction and trust.
+
+Following the regional conflicts in June 2025, the group also launched a themed phishing campaign using a “Sustainable Peace” seminar invitation as a lure. The invitation was crafted to appear as a legitimate geopolitical or diplomatic event, aiming to encourage engagement from targeted individuals within government, policy, and international relations sectors.
+
+These operations demonstrate the group’s continued reliance on social engineering, trusted relationship abuse, and geopolitical themes to enhance credibility and improve payload delivery success rates.
+
+
+<img width="822" height="322" alt="Screenshot 2026-05-11 at 15-30-46 Boggy Serpens Threat Assessment" src="https://github.com/user-attachments/assets/bedf84ba-db09-4ab1-9a69-99dc353dc02f" />
+
 
 
 
